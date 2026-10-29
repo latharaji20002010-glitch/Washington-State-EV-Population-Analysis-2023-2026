@@ -52,10 +52,10 @@ Source: U.S. Census Bureau — American Community Survey
 
 # Dataset Files:
 This repository includes:
-Raw dataset ZIP file
-Cleaned dataset ZIP file
-Raw dataset sample in CSV format
-Cleaned dataset sample in CSV format
+- Raw dataset ZIP file
+- Cleaned dataset ZIP file
+- Raw dataset sample in CSV format
+- Cleaned dataset sample in CSV format
 
 # Methodology
 
