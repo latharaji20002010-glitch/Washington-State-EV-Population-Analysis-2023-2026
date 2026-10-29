@@ -91,13 +91,13 @@ Created visualizations to identify distributions, compare vehicle categories, ex
 Developed an interactive Looker Studio dashboard to present key metrics, comparisons, and geographic patterns in a clear and accessible format.
 
 # Key Findings
-**- Leading manufacturer:** Tesla had the highest number of recorded EVs, with 122,573 records.
-**- Most represented model year:** 2023 had the highest count, with 61,425 records.
-**- Vehicle type distribution:** Battery Electric Vehicles (BEVs) accounted for 241,125 records, while Plug-in Hybrid Electric Vehicles (PHEVs) accounted for 57,791 records.
-**- Geographic distribution:** King County had the highest number of recorded EVs, with 144,257 records.
-**- Leading city:** Seattle had the highest city-level count, with 45,469 records.
-**- Electric-range data quality:** A substantial number of records contained zero electric-range values. These were treated as unavailable or unresearched range information for the relevant analysis rather than as actual zero-mile driving ranges.
-**- Population-adjusted EV distribution:** EV records per 1,000 residents were calculated at the census-tract level using 2024 ACS 5-year population estimates. The highest observed rate was approximately 465.68 EV records per 1,000 residents in Census Tract 93 in King County, based on 1,486 EV records and a population of 3,191.
+- **Leading manufacturer:** Tesla had the highest number of recorded EVs, with 122,573 records.
+- **Most represented model year:** 2023 had the highest count, with 61,425 records.
+- **Vehicle type distribution:** Battery Electric Vehicles (BEVs) accounted for 241,125 records, while Plug-in Hybrid Electric Vehicles (PHEVs) accounted for 57,791 records.
+- **Geographic distribution:** King County had the highest number of recorded EVs, with 144,257 records.
+- **Leading city:** Seattle had the highest city-level count, with 45,469 records.
+- **Electric-range data quality:** A substantial number of records contained zero electric-range values. These were treated as unavailable or unresearched range information for the relevant analysis rather than as actual zero-mile driving ranges.
+- **Population-adjusted EV distribution:** EV records per 1,000 residents were calculated at the census-tract level using 2024 ACS 5-year population estimates. The highest observed rate was approximately 465.68 EV records per 1,000 residents in Census Tract 93 in King County, based on 1,486 EV records and a population of 3,191.
 These findings describe patterns in the available dataset and should not be interpreted as direct measures of annual vehicle sales or population-adjusted EV adoption rates.
 
 # Project Deliverables:
