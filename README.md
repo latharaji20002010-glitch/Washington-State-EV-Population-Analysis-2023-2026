@@ -56,6 +56,7 @@ This repository includes:
 - Cleaned dataset ZIP file
 - Raw dataset sample in CSV format
 - Cleaned dataset sample in CSV format
+- Washington tract population dataset in CSV format
 
 # Methodology
 
