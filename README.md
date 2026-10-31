@@ -111,11 +111,11 @@ These findings describe patterns in the available dataset and should not be inte
 
 # Interactive Dashboard:
 The **Looker Studio** dashboard presents an interactive overview of the recorded EV population in Washington State.
-**Data Studio Dashboard link:* https://datastudio.google.com/reporting/41dcbf40-d324-4720-a454-9ae931db73ac
+**Data Studio Dashboard link:* https://datastudio.google.com/reporting/95f747eb-76b2-4dcd-a287-9a769aa1545a/page/dEUCG
 
 # Python Notebook:
 The Python notebook documents the data-cleaning process, exploratory analysis, population-adjusted calculations, visualizations, and key findings.
-**Notebook link:* 
+**Notebook link:* https://colab.research.google.com/drive/18QyXlnAhx1tSKyTDFT78gpOmA9hqXCC5?usp=sharing
 
 # Limitations:
 - The dataset represents recorded EV population records, not annual vehicle sales.
